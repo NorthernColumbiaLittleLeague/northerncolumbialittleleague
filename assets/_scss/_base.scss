@@ -1,28 +1,39 @@
+@import "components/buttons";
+
 * {
   padding: 0;
   margin: 0;
 }
-html {
-  overflow: hidden;
-}
-
 body {
   background-color: $white;
   font-family: 'Average Sans', sans-serif;
+  overflow-x: hidden;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Fjalla One', sans-serif;
 }
 
-
-.container {
-  padding: 30px;
+p {
+  font-size: 16px;
+  line-height: 22px;
 }
 
-footer {
-  height: 150px;
-  background-color: $footer-gray;
-  color: $black;
-  bottom: 0;
+a {
+
+  text-decoration: none;
+  color: $white;
+  
+  &:visited {
+    color: $white;
+  }
+  &:hover {
+    background-color: $menu-hover;
+  }
+}
+
+
+.align-right {
+  display: flex;
+  justify-content: flex-end;
 }

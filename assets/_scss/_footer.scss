@@ -1,0 +1,15 @@
+footer {
+  height: 120px;
+  background-color: $footer-gray;
+  color: $black;
+  bottom: 0;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  border-radius: 5px;
+  
+  .left-block, .right-block {
+    flex: 0 1 50%;
+  }
+}

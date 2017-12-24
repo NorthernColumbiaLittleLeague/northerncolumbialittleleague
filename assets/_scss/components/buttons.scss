@@ -1,0 +1,29 @@
+.btn {
+  border: none;
+  margin: 10px;
+  font-size: 18px;
+  
+  a {
+    color: $white;
+
+    &:visited {
+      color: $white;
+    }
+  }
+}
+.primary, .secondary {
+  background-color: $menu-blue;
+  
+  &:hover {
+    background-color: $menu-hover;
+  }
+}
+
+.primary {
+  padding: 15px;
+}
+.secondary {
+  padding: 5px;
+  height: auto;
+  font-size: 16px;
+}

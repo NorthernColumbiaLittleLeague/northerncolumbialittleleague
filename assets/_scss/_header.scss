@@ -1,5 +1,20 @@
 header {
- 
+ .action-nav {
+   height: 50px;
+   background-color: $black;
+   
+   a {
+     display: inline-block;
+     padding: 5px;
+     margin: 10px;
+     
+     &:hover {
+       background-color: transparent;
+       text-decoration: underline;
+     }
+   }
+
+ }
   .background-cover {
     display: flex;
     flex-direction: column;
