@@ -1,0 +1,33 @@
+nav {
+  background-color: $menu-blue;
+  height: 50px;
+  overflow: hidden;
+  ul {
+    list-style-type: none;
+    margin: 0 auto;
+    height: 100%;
+    margin-left: 15px;
+    display: flex;
+    justify-content: center;
+
+    li {
+      display: inline-block;
+      height: 100%;
+
+      a {
+        padding: 15px 20px;
+        height: auto;
+        display: block;
+        text-decoration: none;
+        color: $white;
+        
+        &:visited {
+          color: $white;
+        }
+        &:hover {
+          background-color: $menu-hover;
+        }
+      }
+    }
+  }
+}
