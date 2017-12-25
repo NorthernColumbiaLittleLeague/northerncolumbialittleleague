@@ -1,0 +1,1 @@
+var NCLL = NCLL ? NCLL : {};

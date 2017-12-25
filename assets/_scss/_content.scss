@@ -1,16 +1,29 @@
 .container {
   padding: 30px;
-  
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
   h1 {
+    flex: 1 0 100%;
     border-bottom: 1px solid $footer-gray;
     margin-bottom: 15px;
     
   }
-  .mission-statement {
+  > div {
+    
     h3 {
       padding: 15px 15px 15px 0;
     }
-    width: 50%;
-    margin: 0 auto;
+  }
+  .mission-statement {
+    flex: 0 1 70%;
+    p {
+      padding-right: 150px;
+    }
+  }
+  .upcoming-events {
+    flex: 0 1 20%;
   }
 }
