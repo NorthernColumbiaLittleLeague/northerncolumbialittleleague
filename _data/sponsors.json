@@ -1,0 +1,459 @@
+[ {
+    "group": "Dining",
+    "sponsors": [{
+        "name": "Applebees - Hudson",
+        "url": "http://applebees.com/"
+      },
+      {
+        "name": "Bagel Tyme",
+        "url": "http://www.bageltyme.net/"
+      },
+      {
+        "name": "Broad Street Bagel Co",
+        "url": "http://www.broadstreetbagelco.com/"
+      },
+      {
+        "name": "Chris' Cafe",
+        "url": "http://www.facebook.com/pages/Chris-Cafe/117291670420"
+      },
+      {
+        "name": "Dunkin' Donuts",
+        "url": "http://www.dunkindonuts.com/"
+      },
+      {
+        "name": "Five Guys",
+        "url": "http://www.fiveguys.com/home2014/index_us.html"
+      },
+      {
+        "name": "King Wok",
+        "url": ""
+      },
+      {
+        "name": "Labella's Hudson",
+        "url": "http://labellahudson.com/"
+      },
+      {
+        "name": "Main Street Diner",
+        "url": ""
+      },
+      {
+        "name": "Mark's Pizza",
+        "url": ""
+      },
+      {
+        "name": "O'Kenny's",
+        "url": ""
+      }]
+  },
+  {
+    "group": "Home and Business Services",
+    "sponsors": [{
+        "name": "Catseye Pest Control",
+        "url": "http://www.catseyepest.com/"
+      },
+      {
+        "name": "Case Construction",
+        "url": ""
+      },
+      {
+        "name": "Certified Document Security",
+        "url": "http://trustincds.com/"
+      },
+      {
+        "name": "Certified Water-Fire-Smoke",
+        "url": ""
+      },
+      {
+        "name": "County Outhouses",
+        "url": ""
+      },
+      {
+        "name": "County Waste",
+        "url": "http://www.county-waste.com/"
+      },
+      {
+        "name": "Countryside Glass",
+        "url": "http://www.bbb.org/upstate-new-york/business-reviews/glass-plate-and-window/countryside-glass-in-valatie-ny-66004413/"
+      },
+      {
+        "name": "CP Akers LLC",
+        "url": ""
+      },
+      {
+        "name": "Dells' Plumbing & Heating",
+        "url": "http://www.dellsplumbing.com/"
+      },
+      {
+        "name": "Douglas Construction",
+        "url": "http://local.yahoo.com/info-11537907-douglas-construction-kinderhook"
+      },
+      {
+        "name": "DRD Building Products",
+        "url": ""
+      },
+      {
+        "name": "Elite Builders",
+        "url": "http://www.elitebuildersofny.com/"
+      },
+      {
+        "name": "Fairpoint Communications",
+        "url": "http://www.fairpoint.com/"
+      },
+      {
+        "name": "Garnett Technology",
+        "url": ""
+      },
+      {
+        "name": "George's Reconditioning Service",
+        "url": "http://www.quicktransportsolutions.com/truckingcompany/newyork/georges-reconditioning-service-usdot-1509120.php#.UXVNZL8psw0"
+      },
+      {
+        "name": "Gilcrest Properties",
+        "url": "http://www.gilcrestproperties.com/"
+      },
+      {
+        "name": "Goold Well & Pump",
+        "url": "http://www.gooldwells.com/"
+      },
+      {
+        "name": "Green Flow Property Maintenance",
+        "url": "http://www.greenflowpropertymaintenance.com/"
+      },
+      {
+        "name": "Hall Construction",
+        "url": ""
+      },
+      {
+        "name": "Heim Fuel Service",
+        "url": "http://www.bbb.org/upstate-new-york/business-reviews/oils-fuel/heim-fuel-service-inc-in-niverville-ny-66007578/"
+      },
+      {
+        "name": "Hudson Solar",
+        "url": "http://hvce.com/"
+      },
+      {
+        "name": "Jerry Jennings Electric",
+        "url": "http://maps.google.com/maps/place?rls=com.microsoft:en-us&oe=UTF-8&startIndex=&startPage=1&um=1&ie=UTF-8&q=Jennings+electric+kinderhook+ny&fb=1&gl=us&hq=Jennings+electric&hnear=Kinderhook,+NY&cid=5457962045162808752"
+      },
+      {
+        "name": "Madsen Overhead Doors",
+        "url": "http://madsenoverheaddoors.com/"
+      },
+      {
+        "name": "Martino Properties",
+        "url": "http://www.martinoproperties.com/"
+      },
+      {
+        "name": "McCagg Excavating",
+        "url": ""
+      },
+      {
+        "name": "Premium Insulation",
+        "url": ""
+      },
+      {
+        "name": "RM Lill",
+        "url": "http://www.rmlillinc.com/"
+      },
+      {
+        "name": "Roma Fence",
+        "url": "http://www.romafenceco.com/"
+      },
+      {
+        "name": "S&F Technologies",
+        "url": "http://www.sftech.biz/"
+      },
+      {
+        "name": "Smith Controls Systems",
+        "url": "http://www.smithcontrol.com/"
+      },
+      {
+        "name": "Smith Well Drilling",
+        "url": ""
+      },
+      {
+        "name": "Taconic Engineering",
+        "url": "http://taconicengineering.com/"
+      },
+      {
+        "name": "Tubcut of NY",
+        "url": "http://www.elitebuildersofny.com/"
+      },
+      {
+        "name": "Valley Energy/Miller-Wilkins",
+        "url": "http://www.valleyenergy.com/"
+      },
+      {
+        "name": "Van Buren Family - Berkshire Hathaway",
+        "url": ""
+      }]
+  },
+  {
+    "group": "Health, Wellness, and Travel",
+    "sponsors": [{
+        "name": "Barnwell Nursing & Rehabilitation",
+        "url": ""
+      },
+      {
+        "name": "Beth Hendlin DDS",
+        "url": ""
+      },
+      {
+        "name": "Chatham Small Animal Hospital",
+        "url": "http://www.chathamsmallanimal.com/"
+      },
+      {
+        "name": "Clublife",
+        "url": "http://www.clublifefit.com/"
+      },
+      {
+        "name": "Columbia Memorial Hospital",
+        "url": "https://www.columbiamemorialhealth.org/"
+      },
+      {
+        "name": "Fuzzybuttz Grooming Studio",
+        "url": ""
+      },
+      {
+        "name": "Yankee Trails",
+        "url": "http://www.yankeetrails.com/"
+      }]
+  },
+  {
+    "group": "Sports and Recreation Services",
+    "sponsors":[{
+        "name": "Copake Country Club",
+        "url": "http://www.copakecountryclub.com/"
+      },
+      {
+        "name": "Frozen Ropes",
+        "url": "http://www.frozenropes.com/"
+      },
+      {
+        "name": "Glencadia Rod and Gun Club",
+        "url": ""
+      },
+      {
+        "name": "Gould's Martial Arts Center",
+        "url": ""
+      },
+      {
+        "name": "KJ's Gymnastics",
+        "url": "http://www.kjsgymnastics.com/"
+      },
+      {
+        "name": "Northern Columbia CHAOS",
+        "url": "http://www.eteamz.com/ncchaos/"
+      }]
+  },
+  {
+    "group": "Legal, Financial, and Insurance Services",
+    "sponsors":[{
+        "name": "David Dellehunt & Family",
+        "url": ""
+      },
+      {
+        "name": "KeyBank",
+        "url": "https://www.firstniagara.com/"
+      },
+      {
+        "name": "Freeman Howard",
+        "url": "http://www.freemanhoward.com/"
+      },
+      {
+        "name": "Hennessy Insurance",
+        "url": "http://www.insiderpages.com/b/3718856620/hennessy-insurance-valatie"
+      },
+      {
+        "name": "Kinderhook Bank",
+        "url": "https://www.nubk.com/index.htm"
+      },
+      {
+        "name": "Kleeber Insurance Services",
+        "url": ""
+      },
+      {
+        "name": "Sean Lally, Attorney",
+        "url": "http://lawyers.justia.com/lawyer/sean-patrick-lally-1217120"
+      },
+      {
+        "name": "MetzWood Insurance",
+        "url": "http://www.metzwood.com/"
+      },
+      {
+        "name": "Moss Capital Group LLC",
+        "url": "http://www.quicktransportsolutions.com/truckingcompany/newyork/moss-capital-group-llc-usdot-2527637.php"
+      },
+      {
+        "name": "Shank & Falvey",
+        "url": "http://www.shank-falvey.com/"
+      },
+      {
+        "name": "State Farm Insurance",
+        "url": "https://www.statefarm.com/agent/US/NY/Hudson/Laura-Squillante-ZP9V01YS000"
+      },
+      {
+        "name": "William Better Esquire",
+        "url": ""
+      }]
+  },
+  {
+    "group": "Non-Profit, Volunteer, and Social Organizations",
+    "sponsors":[{
+        "name": "Columbia County Deputy Sheriffs",
+        "url": "http://www.columbiacountysheriff.us/"
+      },
+      {
+        "name": "Elks, Lodge #2530",
+        "url": "http://www.elks.org/enf/LodgeInfo.cfm?LodgeNumber=2530"
+      },
+      {
+        "name": "ICC Booster Club",
+        "url": "http://www.ichabodcrane.org/icBoosterClub.html"
+      },
+      {
+        "name": "ICC Teacher's Association",
+        "url": ""
+      },
+      {
+        "name": "Niverville Fire Department",
+        "url": "http://www.nivervillefd.org/"
+      },
+      {
+        "name": "Northern Rivers",
+        "url": ""
+      },
+      {
+        "name": "OK Kids",
+        "url": "http://www.okkidsinc.org/"
+      },
+      {
+        "name": "Taconic Foundation",
+        "url": ""
+      },
+      {
+        "name": "VFW - Stuyvesant",
+        "url": "http://www.vfw.org/"
+      }]
+  },
+  {
+    "group": "Retail, Commercial, and Consumer Services",
+    "sponsors":[{
+        "name": "ACP Power Equipment",
+        "url": ""
+      },
+      {
+        "name": "Awards by Walsh",
+        "url": "http://www.awardsbywalsh.com/"
+      },
+      {
+        "name": "Cantele Tent Rentals",
+        "url": "http://www.canteletentrentals.com/"
+      },
+      {
+        "name": "Carovail",
+        "url": "http://www.carovail.com/"
+      },
+      {
+        "name": "Coca-Cola Albany",
+        "url": "http://www.coca-cola.com/global/glp.html"
+      },
+      {
+        "name": "Columbia Tractor",
+        "url": "http://www.columbiatractor.com/"
+      },
+      {
+        "name": "Cross Eyed Owl Gift Shop",
+        "url": "http://www.crosseyedowl.com/"
+      },
+      {
+        "name": "Ed Herrington, Inc.",
+        "url": "http://www.herringtons.com/"
+      },
+      {
+        "name": "Furniture Plus",
+        "url": "http://www.furnitureplushudson.com/"
+      },
+      {
+        "name": "Ginsberg's",
+        "url": "http://www.ginsbergs.com/"
+      },
+      {
+        "name": "Hannaford",
+        "url": "http://www.hannaford.com/"
+      },
+      {
+        "name": "Kinderhook Toyota",
+        "url": "http://www.kinderhooktoyota.com/"
+      },
+      {
+        "name": "Kohl's",
+        "url": "http://www.kohls.com/"
+      },
+      {
+        "name": "Lowes",
+        "url": "http://www.lowes.com/"
+      },
+      {
+        "name": "Maple Lane Nursery",
+        "url": ""
+      },
+      {
+        "name": "Mario's Home Center",
+        "url": "http://www.mariostruevalue.com/"
+      },
+      {
+        "name": "Matthew Signs",
+        "url": "http://www.matthewsigns.com/"
+      },
+      {
+        "name": "Northeast Auto Parts NAPA",
+        "url": "https://www.napaonline.com/"
+      },
+      {
+        "name": "Price Chopper",
+        "url": "http://www.pricechopper.com/"
+      },
+      {
+        "name": "Rennsselaer Scrap ",
+        "url": ""
+      },
+      {
+        "name": "Samascott's Garden Market",
+        "url": "http://www.samascott.com/"
+      },
+      {
+        "name": "Sarah's Studio",
+        "url": "http://www.sarahmartinophotography.com/"
+      },
+      {
+        "name": "Satch Sales",
+        "url": "http://www.satchsales.com/"
+      },
+      {
+        "name": "Kelly Shallo Photography",
+        "url": "http://www.kellyshallophotography.com/"
+      },
+      {
+        "name": "Shear Studio",
+        "url": "https://plus.google.com/108485190179447517475/about?gl=us&hl=en"
+      },
+      {
+        "name": "Steiner's Sports",
+        "url": "http://steinersskibike.com/"
+      },
+      {
+        "name": "Stewart's Shops",
+        "url": "http://www.stewartsshops.com/"
+      },
+      {
+        "name": "TCBY East Greenbush",
+        "url": "http://www.tcby.com/"
+      },
+      {
+        "name": "Tierra Farm",
+        "url": "http://www.tierrafarm.com/"
+      },
+    ]
+  }
+]

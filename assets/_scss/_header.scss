@@ -7,7 +7,12 @@ header {
      display: inline-block;
      padding: 5px;
      margin: 10px;
-     
+     color: $white;
+
+     &:visited {
+       color: $white;
+     }
+
      &:hover {
        background-color: transparent;
        text-decoration: underline;

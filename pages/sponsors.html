@@ -1,7 +1,23 @@
 ---
 layout: default
 title: Sponsor List
+bodyId: sponsors
 permalink: /sponsors.html
 ---
 
 <h1> Sponsor List </h1>
+
+{% for sponsor_group in site.data.sponsors %}
+<div class="sponsor-group">
+  <h3> {{ sponsor_group.group }} </h3>
+  <ul>
+    {% for sponsor in sponsor_group.sponsors %}
+      {% if sponsor.url == "" %}
+        <li>{{sponsor.name}}</li>
+      {% else %}
+        <li><a href={{sponsor.url}}>{{sponsor.name}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}

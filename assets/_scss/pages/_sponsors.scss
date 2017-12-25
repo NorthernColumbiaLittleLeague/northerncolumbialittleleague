@@ -1,0 +1,19 @@
+#sponsors {
+  .sponsor-group {
+    flex: 0 1 45%;
+    padding: 15px;
+
+    ul {
+      list-style-type: none;
+      li {
+        a {
+          text-decoration: underline;
+          &:hover {
+            background-color: transparent;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+}

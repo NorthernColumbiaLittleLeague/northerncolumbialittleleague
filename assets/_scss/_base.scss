@@ -22,10 +22,10 @@ p {
 a {
 
   text-decoration: none;
-  color: $white;
-  
+  color: $black;
+  line-height: 22px;
   &:visited {
-    color: $white;
+    color: $black;
   }
   &:hover {
     background-color: $menu-hover;
