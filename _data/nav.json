@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Home",
+    "url": "/"
+  },
+  {
+    "label": "Baseball",
+    "url": "/baseball/"
+  },
+  {
+    "label": "Softball",
+    "url": "/softball/"
+  },
+  {
+    "label": "Sponsors",
+    "url": "/sponsors/"
+  },
+  {
+    "label": "Fields",
+    "url": "/fields/"
+  },
+  {
+    "label": "Contact",
+    "url": "/contact/"
+  },
+  {
+    "label": "Reference",
+    "url": "/reference/"
+  }
+]
