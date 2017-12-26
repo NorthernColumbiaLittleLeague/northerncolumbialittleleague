@@ -16,8 +16,13 @@ bodyId: home
   values that will make them strong and happy children who grow up to be good, decent, healthy 
   and trustworthy citizens. </p>
 </div>
-<div class="upcoming-events">
-  <h3> Upcoming Events </h3> 
-  <div id="little-league-schedule">
-  </div>
+<div class="sidebar">
+  <h3> Quick Links </h3> 
+  <ul class="doc-links">
+    {% for doc_link in site.data.documents %}
+        {% if doc_link.tags contains "quicklink" %}
+          <li> <a href="{{doc_link.url}}" target="_blank">{{doc_link.label}}</a></li>
+        {% endif %}
+    {% endfor %}
+  </ul>
 </div>

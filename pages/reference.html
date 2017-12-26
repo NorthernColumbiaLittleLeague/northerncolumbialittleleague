@@ -6,4 +6,11 @@ permalink: /reference/
 ---
 
   <h1> Reference </h1>
+  <div class="reference-group">
+    <ul class="doc-links">
+      {% for doc_link in site.data.documents %}
+            <li> <a href="{{doc_link.url}}" target="_blank">{{doc_link.label}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 

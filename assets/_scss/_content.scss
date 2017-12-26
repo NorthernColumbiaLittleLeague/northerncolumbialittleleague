@@ -1,4 +1,5 @@
 @import 'pages/sponsors';
+@import 'pages/league';
 
 .container {
   padding: 30px;
@@ -14,18 +15,41 @@
     
   }
   > div {
-    
     h3 {
       padding: 15px 15px 15px 0;
     }
   }
+
   .mission-statement {
     flex: 0 1 70%;
     p {
       padding-right: 150px;
     }
   }
-  .upcoming-events {
-    flex: 0 1 20%;
+
+  .sidebar {
+    flex: 1 0 20%;
+    background-color: $footer-gray;
+    padding: 0 15px;
+
+    h3 {
+      border-bottom: 1px solid $medium-gray;
+    }
+  }
+
+  ul.doc-links {
+    list-style-type: none;
+    margin: 15px;
+    li {
+      font-size: 18px;
+      margin-bottom: 10px;
+      
+      a {
+        &:hover {
+          background-color: transparent;
+          text-decoration: underline;
+        }
+      }
+    }
   }
 }

@@ -1,6 +1,7 @@
 footer {
   height: 100px;
-  background-color: $footer-gray;
+  // background-color: $footer-gray;
+  border-top: 1px solid $footer-gray;
   color: $black;
   bottom: 0;
   padding: 30px;
