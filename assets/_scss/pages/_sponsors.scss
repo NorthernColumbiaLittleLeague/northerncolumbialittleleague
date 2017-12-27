@@ -16,4 +16,10 @@
       }
     }
   }
+  
+  @include breakpoint('sm-down') {
+    .sponsor-group {
+      flex: 1 0 100%;
+    }
+  }
 }

@@ -12,3 +12,15 @@ $light-navy: #01467f;
 //gray
 $footer-gray: #eff2f7;
 $medium-gray: #9d9ea0;
+
+//variables
+$breakpoints: (
+  'xs-only': (max-width: 479px),
+  'sm-only': (min-width: 480px) and (max-width: 639px),
+  'sm-down': (max-width: 639px),
+  'md-only': (min-width: 640px) and (max-width: 899px),
+  'md-down': (max-width: 899px),
+  'lg-only': (min-width: 900px) and (max-width: 1999px),
+  'lg-down': (max-width: 1999px),
+  'xl-up': (min-width: 1200px)
+) !default;

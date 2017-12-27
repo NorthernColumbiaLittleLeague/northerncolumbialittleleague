@@ -3,8 +3,14 @@
     {% include head.html %}
 		<body id="{{page.bodyId}}">
       {% include header.html %}
-      {% assign menu = site.data.menus.header %}
-			{% include menu.html %}
+       <nav id="header-nav">
+         <h4 id="menu-btn"> 
+           <img src="{{site.baseurl}}/assets/images/menu_icon.png" width="30" height="30" /> 
+           Menu
+         </h4>
+        {% assign menu = site.data.menus.header %}
+  			{% include menu.html %}
+      </nav>
 			<div class="container">
 			
 			{{ content }}
@@ -12,5 +18,7 @@
 			</div><!-- /.container -->
 			{% include footer.html %}
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script src="{{site.baseurl}}/assets/js/application.js"></script>
+      <script src="{{site.baseurl}}/assets/js/menu.js"></script>
 		</body>
 	</html>

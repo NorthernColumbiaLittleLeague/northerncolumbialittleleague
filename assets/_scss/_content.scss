@@ -52,4 +52,11 @@
       }
     }
   }
+  
+  @include breakpoint('sm-down') {
+    .mission-statement, .sidebar {
+      flex: 0 1 100%;
+      margin: 15px;
+    }
+  }
 }
