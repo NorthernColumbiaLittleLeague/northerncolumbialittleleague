@@ -3,7 +3,8 @@
     {% include head.html %}
 		<body id="{{page.bodyId}}">
       {% include header.html %}
-			{% include nav.html %}
+      {% assign menu = site.data.menus.header %}
+			{% include menu.html %}
 			<div class="container">
 			
 			{{ content }}
