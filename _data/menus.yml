@@ -1,36 +1,36 @@
 ---
 header:
-- identifier: top-level
-  url: "/softball/"
-  weight: 2
-  parent: item_7eorwgc
-  title: Softball
-- identifier: top-level
-  url: "/baseball/"
-  weight: 1
-  parent: item_7eorwgc
-  title: Baseball
 - url: "/"
-  weight: 1
-  identifier: item_7eorwgc
-  title: Leagues
-- identifier: top-level
-  url: "/sponsors/"
-  weight: 4
-  title: Sponsors
-- identifier: top-level
-  url: "/reference/"
-  weight: 6
-  title: Reference
-- identifier: top-level
-  url: "/contact/"
-  weight: 5
-  title: Contact
-- identifier: top-level
-  url: "/fields/"
-  weight: 3
-  title: Fields
-- identifier: top-level
-  url: "/"
+  identifier: home
   weight: 1
   title: Home
+
+- url: "/baseball/"
+  identifier: baseball
+  weight: 2
+  title: Baseball
+
+- url: "/softball/"
+  identifier: softball
+  weight: 3
+  title: Softball
+
+- url: "/sponsors/"
+  identifier: sponsors
+  weight: 4
+  title: Sponsors
+
+- url: "/fields/"
+  identifier: fields
+  weight: 5
+  title: Fields
+
+- url: "/contact/"
+  identifier: contact
+  weight: 6
+  title: Contact
+
+- url: "/reference/"
+  identifier: reference
+  weight: 7
+  title: Reference
