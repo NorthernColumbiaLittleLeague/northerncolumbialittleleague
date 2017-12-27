@@ -1,6 +1,8 @@
-[ {
+[
+  {
     "group": "Dining",
-    "sponsors": [{
+    "sponsors": [
+      {
         "name": "Applebees - Hudson",
         "url": "http://applebees.com/"
       },
@@ -43,11 +45,13 @@
       {
         "name": "O'Kenny's",
         "url": ""
-      }]
+      }
+    ]
   },
   {
     "group": "Home and Business Services",
-    "sponsors": [{
+    "sponsors": [
+      {
         "name": "Catseye Pest Control",
         "url": "http://www.catseyepest.com/"
       },
@@ -186,11 +190,13 @@
       {
         "name": "Van Buren Family - Berkshire Hathaway",
         "url": ""
-      }]
+      }
+    ]
   },
   {
     "group": "Health, Wellness, and Travel",
-    "sponsors": [{
+    "sponsors": [
+      {
         "name": "Barnwell Nursing & Rehabilitation",
         "url": ""
       },
@@ -217,11 +223,13 @@
       {
         "name": "Yankee Trails",
         "url": "http://www.yankeetrails.com/"
-      }]
+      }
+    ]
   },
   {
     "group": "Sports and Recreation Services",
-    "sponsors":[{
+    "sponsors": [
+      {
         "name": "Copake Country Club",
         "url": "http://www.copakecountryclub.com/"
       },
@@ -244,11 +252,13 @@
       {
         "name": "Northern Columbia CHAOS",
         "url": "http://www.eteamz.com/ncchaos/"
-      }]
+      }
+    ]
   },
   {
     "group": "Legal, Financial, and Insurance Services",
-    "sponsors":[{
+    "sponsors": [
+      {
         "name": "David Dellehunt & Family",
         "url": ""
       },
@@ -295,11 +305,13 @@
       {
         "name": "William Better Esquire",
         "url": ""
-      }]
+      }
+    ]
   },
   {
     "group": "Non-Profit, Volunteer, and Social Organizations",
-    "sponsors":[{
+    "sponsors": [
+      {
         "name": "Columbia County Deputy Sheriffs",
         "url": "http://www.columbiacountysheriff.us/"
       },
@@ -334,11 +346,13 @@
       {
         "name": "VFW - Stuyvesant",
         "url": "http://www.vfw.org/"
-      }]
+      }
+    ]
   },
   {
     "group": "Retail, Commercial, and Consumer Services",
-    "sponsors":[{
+    "sponsors": [
+      {
         "name": "ACP Power Equipment",
         "url": ""
       },
@@ -453,7 +467,7 @@
       {
         "name": "Tierra Farm",
         "url": "http://www.tierrafarm.com/"
-      },
+      }
     ]
   }
 ]
