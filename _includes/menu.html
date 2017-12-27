@@ -1,7 +1,6 @@
 <nav>
   {% if menu %}
     <ul>
-      
       {% for link in menu %}
         <li><a href="{{site.baseurl}}{{link.url}}">{{link.title}}</a></li>
       {% endfor %}
