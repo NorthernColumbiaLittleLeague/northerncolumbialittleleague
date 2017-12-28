@@ -1,21 +1,22 @@
 [
-  { 
+  {
     "committeeName": "Executive Committee",
     "contacts": [
       {
-        "name":,
-        "committee":,
-        "position":,
-        "homePhone":,
-        "cellPhone":,
-        "email":,
-        "tags":,
-      }]
+        "name": "Scott Holzhauer",
+        "committee": "",
+        "position": "President",
+        "homePhone": "",
+        "cellPhone": "567-2913",
+        "email": "ncllpresident@outlook.com",
+        "tags": null
+      }
+    ]
   },
   {
     "committeeName": "Voting Coordinators ",
     "contacts": [
-      
-    ],
+
+    ]
   }
 ]
