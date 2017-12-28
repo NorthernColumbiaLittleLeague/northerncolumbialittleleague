@@ -1,0 +1,21 @@
+[
+  { 
+    "committeeName": "Executive Committee",
+    "contacts": [
+      {
+        "name":,
+        "committee":,
+        "position":,
+        "homePhone":,
+        "cellPhone":,
+        "email":,
+        "tags":,
+      }]
+  },
+  {
+    "committeeName": "Voting Coordinators ",
+    "contacts": [
+      
+    ],
+  }
+]
