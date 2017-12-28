@@ -1,5 +1,33 @@
 [
   {
+    "committeeName": "Non-Voting Positions",
+    "contacts": [
+      {
+        "name": "Pat McConnell",
+        "committee": "",
+        "position": "Public Information Officer",
+        "homePhone": "758-6521",
+        "cellPhone": "929-7191",
+        "email": "mcconnellpatrick@gmail.com",
+        "tags": ""
+      },
+      {
+        "name": "Francis Vecellio",
+        "position": "Registrations",
+        "cellPhone": "",
+        "email": "",
+        "tags": ""
+      },
+      {
+        "name": "Lee Norton",
+        "position": "Concessions",
+        "cellPhone": "",
+        "email": "",
+        "tags": ""
+      }
+    ]
+  },
+  {
     "committeeName": "Executive Committee",
     "contacts": [
       {
