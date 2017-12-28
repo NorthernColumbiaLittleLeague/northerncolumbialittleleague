@@ -161,21 +161,27 @@
         "homePhone": "758-6521",
         "cellPhone": "929-7191",
         "email": "mcconnellpatrick@gmail.com",
-        "tags": ""
+        "tags": [
+
+        ]
       },
       {
         "name": "Francis Vecellio",
         "position": "Registrations",
         "cellPhone": "",
         "email": "",
-        "tags": ""
+        "tags": [
+
+        ]
       },
       {
         "name": "Lee Norton",
         "position": "Concessions",
         "cellPhone": "",
         "email": "",
-        "tags": ""
+        "tags": [
+
+        ]
       }
     ]
   }
