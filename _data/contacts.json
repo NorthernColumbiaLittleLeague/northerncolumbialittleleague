@@ -105,7 +105,49 @@
         "name": "Valerie Spensieri",
         "position": "Minor Softball",
         "homePhone": "331-6843",
-        "tags": ""
+        "tags": [
+
+        ]
+      },
+      {
+        "position": "Intermediate Baseball",
+        "name": "Mike Alessi"
+      },
+      {
+        "name": "Monty Bopp",
+        "position": "T-Ball",
+        "cellPhone": "518-598-4861",
+        "email": "mjbopp24@gmail.com",
+        "tags": [
+          "baseball"
+        ]
+      },
+      {
+        "position": "Field Maintenance",
+        "cellPhone": "365-1708",
+        "email": "sdmartino1298@yahoo.com",
+        "tags": [
+          "manager"
+        ],
+        "name": "Dave Martino"
+      },
+      {
+        "name": "Ron Dixon",
+        "position": "Equipment Manager",
+        "cellPhone": "369-7946",
+        "email": "ronjdixon@hotmail.com",
+        "tags": [
+          "manager"
+        ]
+      },
+      {
+        "position": "Safety Officer",
+        "cellPhone": "755-3875",
+        "email": "jcpierce24@hotmail.com",
+        "tags": [
+
+        ],
+        "name": "Jeanne Sandagato"
       }
     ]
   }
