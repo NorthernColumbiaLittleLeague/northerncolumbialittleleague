@@ -67,13 +67,40 @@
 
         ],
         "email": "mdunspaugh@yahoo.com"
+      },
+      {
+        "position": "Baseball Player Agent",
+        "homePhone": "758-1683",
+        "cellPhone": "929-0005",
+        "email": "vecellio@nycap.rr.com",
+        "tags": [
+          "baseball"
+        ],
+        "name": "Francis Vecellio"
       }
     ]
   },
   {
     "committeeName": "Voting Coordinators ",
     "contacts": [
-
+      {
+        "email": "mvanallen21@gmail.com",
+        "tags": [
+          "baseball"
+        ],
+        "name": "Mike Van Allen",
+        "position": "Major Baseball ",
+        "cellPhone": "755-7709"
+      },
+      {
+        "position": "Minor Baseball",
+        "cellPhone": "653-9313",
+        "email": "jberner4621@gmail.com",
+        "tags": [
+          "baseball"
+        ],
+        "name": "Jessica Berner"
+      }
     ]
   }
 ]
