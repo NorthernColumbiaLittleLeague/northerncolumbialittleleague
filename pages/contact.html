@@ -4,12 +4,11 @@ title: Contact Us
 bodyId: Contact
 permalink: "/contact/"
 ---
-
 <h1> Contact Us </h1>
 {% for committee in site.data.contacts %}
   <div class="">
     <h3> {{committee.committeeName}}</h3>
-    {% for contact in committee.contact %}
+    {% for contact in committee.contacts %}
       {% if contact.tags contains "baseball" %}
         <div class="baseball">
           <span> {{contact.name}} </span>
@@ -25,4 +24,3 @@ permalink: "/contact/"
     {% endfor %}
   </div>
 {% endfor %}
-
