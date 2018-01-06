@@ -6,3 +6,59 @@ permalink: "/fields/"
 ---
 
 <h1> Field Directions </h1>
+<div class="fieldmap">
+  <img src="{{site.baseurl}}/assets/images/field_map_overview.png" usemap="#fieldImageMap">
+
+  <map name="fieldImageMap">
+    <area shape="rect" coords="308, 22, 504, 79" href="#volunteer-park" alt="Volunteer Park">
+    <area shape="rect" coords="313, 105 ,480, 160" href="#callan-park" alt="Callan Park">
+    <area shape="rect" coords="14, 213, 203, 248" href="#rothermel-park" alt="Rothermel Park">
+    <area shape="rect" coords="119, 407, 311, 435" href="#stuy-falls" alt="Stuyvesant Falls">
+    <area shape="rect" coords="385, 409, 495, 433" href="#chatham" alt="Chatham">
+    <area shape="rect" coords="186, 509, 363, 560" href="#west-ghent" alt="West Ghent">
+  </map>
+
+  {% for field in site.data.fields %}
+    <h2 id="{{field.id}}"> {{field.name}} </h2>
+    <div class="field-info">
+      <div class="map">
+        <a href="{{field.mapLink}}" target="_blank">
+          <img src="{{site.baseurl}}{{field.mapImage}}" alt="{{field.name}}" />
+        </a>
+        <p> Click image for Google Map Link </p>
+      </div>
+      <div class="directions">
+          <h4> GPS Location: </h4>
+          <p> {{field.gpsLocation}} </p>
+          
+          <h4> Number of Ball Fields: </h4>
+          <p> {{field.numBallFields}} </p>
+          
+          <h4>Designation on Game/Practice Schedule:</h4>
+          <ul>
+            {% for item in field.fieldDesignation %}
+            <li> {{item}} </li>
+            {% endfor %}
+          </ul>
+          
+          <h4> Parking: </h4>
+          <p> {{field.parking}} </p>
+          
+         <h4> Amenities </h4>
+         <ul class="amenities-list">
+           {% for item in field.amenities %}
+           <li> {{item}} </li>
+           {% endfor %}
+         </ul>
+         
+         <h4> Other Notes </h4>
+         <ul class="additionalNotes-list">
+           {% for item in field.additionalNotes %}
+           <li> {{item}} </li>
+           {% endfor %}
+         </ul>
+         
+      </div>
+    </div>
+  {% endfor %}
+</div>

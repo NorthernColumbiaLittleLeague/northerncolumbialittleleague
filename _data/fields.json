@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Volunteer Park",
+    "id": "volunteer-park",
+    "gpsLocation": "Konkle Lane, Valatie, NY",
+    "numBallFields": 2,
+    "mapLink": "https://www.google.com/maps?q=Independence+Drive,+Valatie,+NY&hl=en&ll=42.436127,-73.673716&spn=0.030723,0.05373&sll=42.435256,-73.67172&sspn=0.007681,0.013433&oq=Independence+Drive,+Valatie,+NY&hnear=Independence+Dr,+Valatie,+Columbia,+New+York+12184&t=m&z=14",
+    "mapImage": "/assets/images/volunteer_park.jpg",
+    "fieldDesignation": [
+      "T1",
+      "T2"
+    ],
+    "parking": "1 large lot, plus plenty of roadside parking near the fields.",
+    "amenities": [
+      "No spectator seating",
+      "Covered dugouts",
+      "Bathrooms near playground",
+      "Drinking water available",
+      "Playground & basketball court",
+      "Covered pavilion with picnic tables"
+    ],
+    "additionalNotes": [
+      "Sunny location. Bring sunscreen."
+    ]
+  },
+  {
+    "name": "Callan Park",
+    "id": "callan-park",
+    "gpsLocation": "Peter J. Callan Memorial Park - New Street, Valatie, NY",
+    "numBallFields": 3,
+    "mapLink": "https://www.google.com/maps?q=Callan+Park,+Valatie,+NY&hl=en&ll=42.417501,-73.673501&spn=0.007683,0.013433&sll=42.351884,-73.729463&sspn=0.015382,0.026865&oq=Callan+Park&hq=Callan+Park,+Valatie,+NY&t=m&z=16",
+    "mapImage": "/assets/images/callan_park.jpg",
+    "fieldDesignation": [
+      "V1",
+      "V2",
+      "V3"
+    ],
+    "parking": "One lot near playground, convenient to V1. Additional parking allowed along New Street.",
+    "amenities": [
+      "No spectator seating",
+      "V1 dugout is covered; dugouts for V2 & V3 are not",
+      "Bathrooms located near V1",
+      "No drinking fountains/water near ballfield",
+      "Playground"
+    ],
+    "additionalNotes": [
+      "Concession (run by the nearby Valatie Firehouse) is open during games."
+    ]
+  },
+  {
+    "name": "Rothermel Park",
+    "id": "rothermel-park",
+    "gpsLocation": "Rothermel Lane, Kinderhook, NY",
+    "numBallFields": 3,
+    "mapLink": "https://www.google.com/maps?q=Rothermel+Lane,+Kinderhook,+NY&hl=en&ll=42.394638,-73.703713&spn=0.007686,0.013433&sll=42.417501,-73.673501&sspn=0.007683,0.013433&oq=Rothermel+La&hnear=Rothermel+Ln,+Kinderhook,+Columbia,+New+York+12106&t=m&z=16",
+    "mapImage": "/assets/images/rothermel_park.jpg",
+    "fieldDesignation": [
+      "K1",
+      "K2",
+      "K3"
+    ],
+    "parking": "3 lots, one near each of the 3 ballfields.",
+    "amenities": [
+      "Metal bleachers at each of the ballfields",
+      "Covered dugouts",
+      "Bathrooms located near K3",
+      "Drinking water available",
+      "Playground & basketball court",
+      "Covered pavilion with picnic tables"
+    ],
+    "additionalNotes": [
+      "Concession stand is usually open during games."
+    ]
+  }
+]
