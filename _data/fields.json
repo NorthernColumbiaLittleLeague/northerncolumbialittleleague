@@ -71,5 +71,76 @@
     "additionalNotes": [
       "Concession stand is usually open during games."
     ]
+  },
+  {
+    "name": "Stuyvesant Falls",
+    "id": "stuy-falls",
+    "gpsLocation": "845 County Route 25, Stuyvesant Falls, NY",
+    "numBallFields": 1,
+    "mapLink": "http://maps.google.com/maps?q=845+County+Route+25,+Stuyvesant,+NY&hl=en&ll=42.351884,-73.729463&spn=0.015382,0.026865&sll=42.318574,-73.698177&sspn=0.01539,0.026865&oq=845+County+Route+25&hnear=845+County+Road+25,+Stuyvesant,+New+York+12173&t=m&z=15",
+    "mapImage": "/assets/images/stuy_falls.jpg",
+    "fieldDesignation": [
+      "SF"
+    ],
+    "parking": "Sufficient parking, convenient to field.",
+    "amenities": [
+      "No available seating for attendees",
+      "Dugouts are not covered",
+      "Port-a-Potty at end of right field fence",
+      "No drinking fountains/water near ballfield"
+    ],
+    "additionalNotes": [
+      "Very sunny. Bring sunscreen."
+    ]
+  },
+  {
+    "name": "Chatham",
+    "id": "chatham",
+    "gpsLocation": "Alexander Jerome Willows Greenburger Memorial Fields - Payn Avenue, Chatham, NY",
+    "numBallFields": 3,
+    "mapLink": "http://maps.google.com/maps?q=Payn+Avenue,+Chatham,+NY&hl=en&ll=42.354707,-73.600974&spn=0.015381,0.026865&sll=42.43657,-73.673716&sspn=0.030722,0.05373&oq=Payn+Av&hnear=Payn+Ave,+Chatham,+Columbia,+New+York+12037&t=m&z=15",
+    "mapImage": "/assets/images/chatham.jpg",
+    "fieldDesignation": [
+      "G1",
+      "G2",
+      "G3"
+    ],
+    "parking": "1 large lot.",
+    "amenities": [
+      "Metal bleachers at each of the ballfields",
+      "Covered dugouts",
+      "Bathrooms",
+      "Drinking water available",
+      "Covered pavilion with picnic tables"
+    ],
+    "additionalNotes": [
+      "Concession stand is usually open during games",
+      "Sunny location. Bring sunscreen",
+      "Often breezy. Bring an extra layer"
+    ]
+  },
+  {
+    "name": "West Ghent",
+    "id": "west-ghent",
+    "gpsLocation": "Ghent Reformed Church - 1039 County Route 22, Ghent, NY",
+    "numBallFields": 1,
+    "mapLink": "http://maps.google.com/maps?q=Ghent+Reformed+Church,+Ghent,+NY&hl=en&ll=42.318574,-73.698177&spn=0.01539,0.026865&sll=37.0625,-95.677068&sspn=33.764224,55.019531&oq=Ghent+Reformed+Church&hq=Ghent+Reformed+Church,&hnear=Ghent,+Columbia,+New+York&t=m&z=15",
+    "mapImage": "/assets/images/west_ghent.jpg",
+    "fieldDesignation": [
+      "WG1"
+    ],
+    "parking": "The park does not have its own parking. The church has 2 parking lots. Please park in the lot to the right (furthest from the church).",
+    "amenities": [
+      "Playground, tennis courts, basketball court",
+      "Spectator seating is limited to one wooden bench",
+      "per side of field",
+      "Dugouts are not covered",
+      "No bathrooms near ballfield",
+      "No drinking fountains/water near ballfield",
+      "There is cell service"
+    ],
+    "additionalNotes": [
+      "It tends to be windy/chilly there. Bring an extra layer."
+    ]
   }
 ]
