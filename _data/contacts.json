@@ -6,11 +6,10 @@
         "name": "Scott Holzhauer",
         "committee": "",
         "position": "President",
-        "homePhone": "",
         "cellPhone": "567-2913",
         "email": "ncllpresident@outlook.com",
         "tags": [
-
+          "manager"
         ]
       },
       {
@@ -38,7 +37,7 @@
         "cellPhone": "229-5412",
         "email": "ldellehu@nycap.rr.com",
         "tags": [
-
+          "manager"
         ]
       },
       {
@@ -46,7 +45,7 @@
         "cellPhone": "992-3388",
         "email": "chrispapas@lookbig.com",
         "tags": [
-
+          "manager"
         ],
         "name": "Chris Papas"
       },
@@ -56,7 +55,7 @@
         "cellPhone": "378-6662",
         "email": "paul.strobel@aol.com",
         "tags": [
-
+          "manager"
         ]
       },
       {
@@ -64,7 +63,7 @@
         "position": "Trustee",
         "cellPhone": "965-0620",
         "tags": [
-
+          "manager"
         ],
         "email": "mdunspaugh@yahoo.com"
       },
@@ -106,7 +105,7 @@
         "position": "Minor Softball",
         "homePhone": "331-6843",
         "tags": [
-
+          "softball"
         ]
       },
       {
@@ -145,7 +144,7 @@
         "cellPhone": "755-3875",
         "email": "jcpierce24@hotmail.com",
         "tags": [
-
+          "manager"
         ],
         "name": "Jeanne Sandagato"
       }
@@ -162,17 +161,18 @@
         "cellPhone": "929-7191",
         "email": "mcconnellpatrick@gmail.com",
         "tags": [
-
+          "manager"
         ]
       },
       {
-        "name": "Francis Vecellio",
         "position": "Registrations",
-        "cellPhone": "",
-        "email": "",
+        "homePhone": "758-1683",
+        "cellPhone": "929-0005",
+        "email": "vecellio@nycap.rr.com",
         "tags": [
-
-        ]
+          "baseball"
+        ],
+        "name": "Francis Vecellio"
       },
       {
         "name": "Lee Norton",
@@ -180,7 +180,7 @@
         "cellPhone": "",
         "email": "",
         "tags": [
-
+          "manager"
         ]
       }
     ]

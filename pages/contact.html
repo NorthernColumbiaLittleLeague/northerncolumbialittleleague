@@ -6,20 +6,33 @@ permalink: "/contact/"
 ---
 <h1> Contact Us </h1>
 {% for committee in site.data.contacts %}
-  <div class="">
-    <h3> {{committee.committeeName}}</h3>
+  <div class="committee-container">
+    <h3 class="committee-heading"> {{committee.committeeName}}</h3>
     {% for contact in committee.contacts %}
-      {% if contact.tags contains "baseball" %}
-        <div class="baseball">
-          <span> {{contact.name}} </span>
-          <span> {{contact.position}} </span>
-          <span> {{contact.homePhone}} </span>
-          <span> {{contact.cellPhone}} </span>
-          <span> {{contact.email}} </span>
+      {% if contact.tags contains "manager" %}
+        <div class="contact-card manager">
+          <h4> {{contact.name}} </h4>
+          <p class="strong"> {{contact.position}} </p>
+          {% if contact.homePhone %}<p><span class="strong"> Home: </span> {{contact.homePhone}} </p>{% endif %}
+          {% if contact.cellPhone %}<p><span class="strong"> Cell: </span> {{contact.cellPhone}} </p> {% endif %}
+          <p> <a href="mailto:{{contact.email}}">{{contact.email}}</a></p>
         </div>
-      {% else if contact.tags contains "baseball" %}
-
-      {% else if contact.tags contains "softball" %}
+      {% elsif contact.tags contains "baseball" %}
+        <div class="contact-card baseball">
+          <h4> {{contact.name}} </h4>
+          <p class="strong"> {{contact.position}} </p>
+          {% if contact.homePhone %}<p><span class="strong"> Home: </span> {{contact.homePhone}} </p>{% endif %}
+          {% if contact.cellPhone %}<p><span class="strong"> Cell: </span> {{contact.cellPhone}} </p> {% endif %}
+          <p> <a href="mailto:{{contact.email}}">{{contact.email}}</a></p>
+        </div>
+      {% elsif contact.tags contains "softball" %}
+        <div class="contact-card softball">
+          <h4> {{contact.name}} </h4>
+          <p class="strong"> {{contact.position}} </p>
+          {% if contact.homePhone %}<p><span class="strong"> Home: </span> {{contact.homePhone}} </p>{% endif %}
+          {% if contact.cellPhone %}<p><span class="strong"> Cell: </span> {{contact.cellPhone}} </p> {% endif %}
+          <p> <a href="mailto:{{contact.email}}">{{contact.email}}</a></p>
+        </div>
       {% endif %}
     {% endfor %}
   </div>
