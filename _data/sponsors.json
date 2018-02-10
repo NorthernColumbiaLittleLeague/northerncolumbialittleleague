@@ -1,50 +1,122 @@
 [
   {
-    "group": "Dining",
+    "group": "Retail, Commercial, and Consumer Services",
     "sponsors": [
       {
-        "name": "Applebees - Hudson",
-        "url": "http://applebees.com/"
-      },
-      {
-        "name": "Bagel Tyme",
-        "url": "http://www.bageltyme.net/"
-      },
-      {
-        "name": "Broad Street Bagel Co",
-        "url": "http://www.broadstreetbagelco.com/"
-      },
-      {
-        "name": "Chris' Cafe",
-        "url": "http://www.facebook.com/pages/Chris-Cafe/117291670420"
-      },
-      {
-        "name": "Dunkin' Donuts",
-        "url": "http://www.dunkindonuts.com/"
-      },
-      {
-        "name": "Five Guys",
-        "url": "http://www.fiveguys.com/home2014/index_us.html"
-      },
-      {
-        "name": "King Wok",
+        "name": "ACP Power Equipment",
         "url": ""
       },
       {
-        "name": "Labella's Hudson",
-        "url": "http://labellahudson.com/"
+        "name": "Awards by Walsh",
+        "url": "http://www.awardsbywalsh.com/"
       },
       {
-        "name": "Main Street Diner",
+        "name": "Cantele Tent Rentals",
+        "url": "http://www.canteletentrentals.com/"
+      },
+      {
+        "name": "Carovail",
+        "url": "http://www.carovail.com/"
+      },
+      {
+        "name": "Coca-Cola Albany",
+        "url": "http://www.coca-cola.com/global/glp.html"
+      },
+      {
+        "name": "Columbia Tractor",
+        "url": "http://www.columbiatractor.com/"
+      },
+      {
+        "name": "Cross Eyed Owl Gift Shop",
+        "url": "http://www.crosseyedowl.com/"
+      },
+      {
+        "name": "Ed Herrington, Inc.",
+        "url": "http://www.herringtons.com/"
+      },
+      {
+        "name": "Furniture Plus",
+        "url": "http://www.furnitureplushudson.com/"
+      },
+      {
+        "name": "Ginsberg's",
+        "url": "http://www.ginsbergs.com/"
+      },
+      {
+        "name": "Hannaford",
+        "url": "http://www.hannaford.com/"
+      },
+      {
+        "name": "Kinderhook Toyota",
+        "url": "http://www.kinderhooktoyota.com/"
+      },
+      {
+        "name": "Kohl's",
+        "url": "http://www.kohls.com/"
+      },
+      {
+        "name": "Lowes",
+        "url": "http://www.lowes.com/"
+      },
+      {
+        "name": "Maple Lane Nursery",
         "url": ""
       },
       {
-        "name": "Mark's Pizza",
+        "name": "Mario's Home Center",
+        "url": "http://www.mariostruevalue.com/"
+      },
+      {
+        "name": "Matthew Signs",
+        "url": "http://www.matthewsigns.com/"
+      },
+      {
+        "name": "Northeast Auto Parts NAPA",
+        "url": "https://www.napaonline.com/"
+      },
+      {
+        "name": "Price Chopper",
+        "url": "http://www.pricechopper.com/"
+      },
+      {
+        "name": "Rennsselaer Scrap ",
         "url": ""
       },
       {
-        "name": "O'Kenny's",
-        "url": ""
+        "name": "Samascott's Garden Market",
+        "url": "http://www.samascott.com/"
+      },
+      {
+        "name": "Sarah's Studio",
+        "url": "http://www.sarahmartinophotography.com/"
+      },
+      {
+        "name": "Satch Sales",
+        "url": "http://www.satchsales.com/"
+      },
+      {
+        "name": "Kelly Shallo Photography",
+        "url": "http://www.kellyshallophotography.com/"
+      },
+      {
+        "name": "Shear Studio",
+        "url": "https://plus.google.com/108485190179447517475/about?gl=us&hl=en"
+      },
+      {
+        "name": "Steiner's Sports",
+        "url": "http://steinersskibike.com/"
+      },
+      {
+        "name": "Stewart's Shops",
+        "url": "http://www.stewartsshops.com/"
+      },
+      {
+        "name": "TCBY East Greenbush",
+        "url": "http://www.tcby.com/"
+      },
+      {
+        "name": "Tierra Farm",
+        "url": "http://www.tierrafarm.com/"
       }
     ]
   },
@@ -189,6 +261,55 @@
       },
       {
         "name": "Van Buren Family - Berkshire Hathaway",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "group": "Dining",
+    "sponsors": [
+      {
+        "name": "Applebees - Hudson",
+        "url": "http://applebees.com/"
+      },
+      {
+        "name": "Bagel Tyme",
+        "url": "http://www.bageltyme.net/"
+      },
+      {
+        "name": "Broad Street Bagel Co",
+        "url": "http://www.broadstreetbagelco.com/"
+      },
+      {
+        "name": "Chris' Cafe",
+        "url": "http://www.facebook.com/pages/Chris-Cafe/117291670420"
+      },
+      {
+        "name": "Dunkin' Donuts",
+        "url": "http://www.dunkindonuts.com/"
+      },
+      {
+        "name": "Five Guys",
+        "url": "http://www.fiveguys.com/home2014/index_us.html"
+      },
+      {
+        "name": "King Wok",
+        "url": ""
+      },
+      {
+        "name": "Labella's Hudson",
+        "url": "http://labellahudson.com/"
+      },
+      {
+        "name": "Main Street Diner",
+        "url": ""
+      },
+      {
+        "name": "Mark's Pizza",
+        "url": ""
+      },
+      {
+        "name": "O'Kenny's",
         "url": ""
       }
     ]
@@ -349,125 +470,4 @@
       }
     ]
   },
-  {
-    "group": "Retail, Commercial, and Consumer Services",
-    "sponsors": [
-      {
-        "name": "ACP Power Equipment",
-        "url": ""
-      },
-      {
-        "name": "Awards by Walsh",
-        "url": "http://www.awardsbywalsh.com/"
-      },
-      {
-        "name": "Cantele Tent Rentals",
-        "url": "http://www.canteletentrentals.com/"
-      },
-      {
-        "name": "Carovail",
-        "url": "http://www.carovail.com/"
-      },
-      {
-        "name": "Coca-Cola Albany",
-        "url": "http://www.coca-cola.com/global/glp.html"
-      },
-      {
-        "name": "Columbia Tractor",
-        "url": "http://www.columbiatractor.com/"
-      },
-      {
-        "name": "Cross Eyed Owl Gift Shop",
-        "url": "http://www.crosseyedowl.com/"
-      },
-      {
-        "name": "Ed Herrington, Inc.",
-        "url": "http://www.herringtons.com/"
-      },
-      {
-        "name": "Furniture Plus",
-        "url": "http://www.furnitureplushudson.com/"
-      },
-      {
-        "name": "Ginsberg's",
-        "url": "http://www.ginsbergs.com/"
-      },
-      {
-        "name": "Hannaford",
-        "url": "http://www.hannaford.com/"
-      },
-      {
-        "name": "Kinderhook Toyota",
-        "url": "http://www.kinderhooktoyota.com/"
-      },
-      {
-        "name": "Kohl's",
-        "url": "http://www.kohls.com/"
-      },
-      {
-        "name": "Lowes",
-        "url": "http://www.lowes.com/"
-      },
-      {
-        "name": "Maple Lane Nursery",
-        "url": ""
-      },
-      {
-        "name": "Mario's Home Center",
-        "url": "http://www.mariostruevalue.com/"
-      },
-      {
-        "name": "Matthew Signs",
-        "url": "http://www.matthewsigns.com/"
-      },
-      {
-        "name": "Northeast Auto Parts NAPA",
-        "url": "https://www.napaonline.com/"
-      },
-      {
-        "name": "Price Chopper",
-        "url": "http://www.pricechopper.com/"
-      },
-      {
-        "name": "Rennsselaer Scrap ",
-        "url": ""
-      },
-      {
-        "name": "Samascott's Garden Market",
-        "url": "http://www.samascott.com/"
-      },
-      {
-        "name": "Sarah's Studio",
-        "url": "http://www.sarahmartinophotography.com/"
-      },
-      {
-        "name": "Satch Sales",
-        "url": "http://www.satchsales.com/"
-      },
-      {
-        "name": "Kelly Shallo Photography",
-        "url": "http://www.kellyshallophotography.com/"
-      },
-      {
-        "name": "Shear Studio",
-        "url": "https://plus.google.com/108485190179447517475/about?gl=us&hl=en"
-      },
-      {
-        "name": "Steiner's Sports",
-        "url": "http://steinersskibike.com/"
-      },
-      {
-        "name": "Stewart's Shops",
-        "url": "http://www.stewartsshops.com/"
-      },
-      {
-        "name": "TCBY East Greenbush",
-        "url": "http://www.tcby.com/"
-      },
-      {
-        "name": "Tierra Farm",
-        "url": "http://www.tierrafarm.com/"
-      }
-    ]
-  }
 ]
