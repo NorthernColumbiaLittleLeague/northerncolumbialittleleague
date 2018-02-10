@@ -1,7 +1,8 @@
 header {
  .action-nav {
-   height: 50px;
+   height: 70px;
    background-color: $black;
+   display: flex;
    
    a {
      display: inline-block;
@@ -18,6 +19,38 @@ header {
        background-color: transparent;
        text-decoration: underline;
      }
+   }
+   .left-block {
+     flex: 1;
+
+     a {
+       margin: 0px;
+       padding: 10px 10px 0 10px;
+       &:hover {
+         text-decoration: none;
+       }
+       span {
+         display: inline-block;
+         margin-top: 5px;
+         margin-left: 5px;
+         background-color: $menu-blue;
+         border-radius: 3px;
+         vertical-align: top;
+         padding: 10px;
+         &:hover {
+           background-color: $menu-hover;
+         }
+         @include breakpoint('sm-down') {
+           display: none;
+         }
+       }
+     }
+   }
+   .right-block {
+    align-self: flex-end;
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
    }
 
  }
