@@ -1,4 +1,6 @@
 ---
+pages:
+- pages/history-alumni.md
 hide_body: false
 fields:
 - name: layout
