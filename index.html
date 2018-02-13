@@ -3,7 +3,6 @@ layout: default
 title: Home
 bodyId: home
 ---
-
 <h1> Welcome </h1>
 
 <div class="mission-statement">
@@ -15,6 +14,12 @@ bodyId: home
   It is our hope that players will learn through their participation in Little League Baseball
   values that will make them strong and happy children who grow up to be good, decent, healthy 
   and trustworthy citizens. </p>
+   <h3> Announcements </h3> 
+  <ul class="doc-links">
+    {% for announcement in site.data.announcements %}
+          <li> <strong>{{announcement.date}}</strong> {{announcement.description}}</li>
+    {% endfor %}
+  </ul>
 </div>
 <div class="sidebar">
   <h3> Quick Links </h3> 
