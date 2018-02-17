@@ -40,7 +40,7 @@
     }
   }
 
-  ul.doc-links {
+  ul.doc-links, ul.announcements {
     list-style-type: none;
     margin: 15px;
     li {
@@ -53,6 +53,19 @@
           text-decoration: underline;
         }
       }
+    }
+  }
+  
+  .announcements {
+    .announce-item {
+      margin-bottom: 15px;
+    }
+    .date {
+      font-weight: 700;
+      padding-left: 10px;
+    }
+    .description {
+      padding-left: 10px;
     }
   }
   

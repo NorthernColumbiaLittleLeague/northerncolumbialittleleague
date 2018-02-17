@@ -15,9 +15,9 @@ bodyId: home
   values that will make them strong and happy children who grow up to be good, decent, healthy 
   and trustworthy citizens. </p>
    <h3> Announcements </h3> 
-  <ul class="doc-links">
+  <ul class="announcements">
     {% for announcement in site.data.announcements %}
-          <li> <strong>{{announcement.date}}</strong> {{announcement.description}}</li>
+          <li class="announce-item"> <span class="date">{{announcement.date}}</span> <p class="description">{{announcement.description}}</p></li>
     {% endfor %}
   </ul>
 </div>
