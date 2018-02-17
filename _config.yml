@@ -40,6 +40,6 @@ exclude:
 # Sass compiling 
 sass:
   load_paths:
-    - assets/_scss
+    - /assets/_scss
   style: :compressed
 
