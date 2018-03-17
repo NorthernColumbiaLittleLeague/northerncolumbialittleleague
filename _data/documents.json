@@ -1,11 +1,11 @@
 [
   {
-    "label": "NCLL Safety Guidelines",
-    "url": "/uploads/ncll copy.pdf",
+    "label": "Registration Form",
+    "url": "/uploads/NCLL Registration Form 2018 (1).pdf",
     "tags": [
       "baseball",
       "softball",
-      "quicklinks"
+      "quicklink"
     ]
   },
   {
@@ -15,39 +15,6 @@
       "volunteer",
       "quicklink",
       "volunteer-action"
-    ]
-  },
-  {
-    "label": "NCLL Sponsorship Invoice Form",
-    "url": "/uploads/2018 sponsorship invoice.pdf",
-    "tags": [
-      "sponsor",
-      "quicklink"
-    ]
-  },
-  {
-    "label": "NCLL Sponsorship Information",
-    "url": "/uploads/New Sponsor Information 2018.pdf",
-    "tags": [
-      "sponsor",
-      "quicklink",
-      "sponsor-action"
-    ]
-  },
-  {
-    "label": "NCLL Sign Letter",
-    "url": "http://northerncolumbialittleleague.org/Forms/NCLL%20New%20Sign%20Form%202016.pdf",
-    "tags": [
-      "sponsor"
-    ]
-  },
-  {
-    "label": "Registration Form",
-    "url": "/uploads/NCLL Registration Form 2018 (1).pdf",
-    "tags": [
-      "baseball",
-      "softball",
-      "quicklink"
     ]
   },
   {
@@ -65,6 +32,30 @@
     "tags": [
       "softball",
       "registration"
+    ]
+  },
+  {
+    "label": "NCLL Sponsorship Information",
+    "url": "/uploads/New Sponsor Information 2018.pdf",
+    "tags": [
+      "sponsor",
+      "quicklink",
+      "sponsor-action"
+    ]
+  },
+  {
+    "label": "NCLL Sponsorship Invoice Form",
+    "url": "/uploads/2018 sponsorship invoice.pdf",
+    "tags": [
+      "sponsor",
+      "quicklink"
+    ]
+  },
+  {
+    "label": "NCLL Sign Letter",
+    "url": "http://northerncolumbialittleleague.org/Forms/NCLL%20New%20Sign%20Form%202016.pdf",
+    "tags": [
+      "sponsor"
     ]
   },
   {
@@ -95,6 +86,22 @@
     ]
   },
   {
+    "label": "NCLL Constitution & By Laws",
+    "url": "http://www.northerncolumbialittleleague.org/Forms/NCLL%20By-Laws%2002162015.pdf",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "label": "NCLL Safety Guidelines",
+    "url": "/uploads/ncll copy.pdf",
+    "tags": [
+      "baseball",
+      "softball",
+      "quicklinks"
+    ]
+  },
+  {
     "label": "Insurance Claim Form",
     "url": "http://www.littleleague.org/Assets/forms_pubs/asap/AccidentClaimForm.pdf",
     "tags": [
@@ -110,13 +117,6 @@
       "softball",
       "baseball",
       "insurance"
-    ]
-  },
-  {
-    "label": "NCLL Constitution & By Laws",
-    "url": "http://www.northerncolumbialittleleague.org/Forms/NCLL%20By-Laws%2002162015.pdf",
-    "tags": [
-      "other"
     ]
   },
   {
